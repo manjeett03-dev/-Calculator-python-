@@ -1,2 +1,2 @@
 # -Calculator-python-
-A simple comand-line calculator built with python
+A simple command-line calculator built with python
