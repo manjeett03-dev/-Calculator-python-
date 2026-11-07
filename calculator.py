@@ -1,3 +1,4 @@
+#the function is done 
 def calculator():
      while True:
         print("\n-----CALCULATOR-----")
